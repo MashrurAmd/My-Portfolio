@@ -19,3 +19,25 @@ body{
     background-color: #201ABF;
 }
 
+.education-container {
+    background-color: #ffffff;
+}
+
+.redtype {
+    background-size: #201ABF;
+}
+
+.redtype-color {
+    color: #201ABF;
+}
+
+.circle {
+    background-color: #201ABF;
+    width: 150px;
+    height: 150px;
+    border-radius : 50% ;
+}
+
+.project-container {
+    background-color: #AEB1B0;
+}
