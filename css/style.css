@@ -12,6 +12,9 @@ body{
 
 .navbar-container {
     background-color: #00072C;
+    position: sticky;
+    top: 0%;
+    z-index: 2;
 }
 
 .about-container {
@@ -40,4 +43,8 @@ body{
 
 .project-container {
     background-color: #AEB1B0;
+}
+
+.form-container {
+    background-color: #201ABF;
 }
